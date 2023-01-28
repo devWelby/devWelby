@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/welbysz/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/welbysz)
 
-![Welby GitHub stats](https://github-readme-stats.vercel.app/api?username=wellBarboza&show_icons=true&theme=dracula&count_private=true)
+![devWelby GitHub stats](https://github-readme-stats.vercel.app/api?username=devWelby&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devWelby&layout=compact)](https://github.com/devWelby/github-readme-stats)
 
 ## Minhas areas
 
@@ -18,9 +20,3 @@
 </div><br/>
 
 Novo nessa area mas ja apaixonado por ela
-
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
