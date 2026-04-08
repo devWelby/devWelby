@@ -19,6 +19,10 @@
 
 ## 🟪 About me
 
+<table>
+  <tr>
+    <td width="68%" valign="top">
+
 I am a **Back-end Developer** and **Machine Learning Engineer** focused on turning ideas into solid, scalable, and well-designed digital products.
 
 I work from **back-end to automation**, prioritizing clean architecture, code organization, and practical delivery.
@@ -29,6 +33,13 @@ I am currently building projects that combine APIs, automation, and product-driv
 - ♦ **Technical interests:** system architecture, APIs, automation, and AI applications  
 - ♦ **Workflow:** GitHub, pull requests, code review, and structured delivery  
 - ♦ **Goal:** build useful products with clear business value
+
+  </td>
+  <td width="32%" align="center" valign="middle">
+    <img src="./assets/astronaut.svg" alt="Astronaut illustration" width="95%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,35 +95,21 @@ I am currently evolving **Aura-ai**, a project focused on practical AI workflows
 
 <div align="center">
 
-### 🟪 GitHub Metrics
+### 🟪 Statistics
 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devWelby&theme=github_dark" alt="Top Languages" />
+      <img width="98%" src="https://github-readme-stats.vercel.app/api?username=devWelby&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devWelby&theme=github_dark" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr><td colspan="2" height="8"></td></tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devWelby&theme=github_dark&utcOffset=-3" alt="Productive Time" />
+      <img width="98%" src="https://streak-stats.demolab.com?user=devWelby&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="Contribution Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
-<br/>
 
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devWelby&theme=github_dark"
-  alt="GitHub Activity Overview"
-/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devWelby&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Wellington%20Barboza%27s%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
