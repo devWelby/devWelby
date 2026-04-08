@@ -72,29 +72,32 @@ I am currently building projects that combine APIs, automation flows, data-drive
 
 ### 🟪 GitHub Metrics
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devWelby&theme=github_dark" alt="Top Languages" />
     </td>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devWelby&theme=github_dark" alt="Most Commit Language" />
     </td>
   </tr>
+  <tr><td colspan="2" height="8"></td></tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devWelby&theme=github_dark&utcOffset=-3" alt="Productive Time" />
     </td>
   </tr>
 </table>
 
 <br/>
+<br/>
 
 <img
-  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devWelby&theme=github_dark"
   alt="GitHub Activity Overview"
 />
 
