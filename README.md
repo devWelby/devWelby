@@ -71,7 +71,7 @@ I am currently building projects that combine APIs, automation flows, data-drive
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=devWelby&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=A855F7"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark"
   alt="GitHub Stats"
 />
 
