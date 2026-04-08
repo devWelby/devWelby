@@ -36,7 +36,7 @@ I am currently building projects that combine APIs, automation, and product-driv
 
   </td>
   <td width="32%" align="center" valign="middle">
-    <img src="./assets/astronaut.svg" alt="Astronaut illustration" width="95%" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0bTFwZ3pwZmJ2aW5kaGo2c3MzY2JlOWcyanc0YzEyYXkwZm43ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" alt="Animated astronaut" width="95%" />
   </td>
   </tr>
 </table>
