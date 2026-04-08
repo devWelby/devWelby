@@ -1,0 +1,44 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05060A"/>
+      <stop offset="1" stop-color="#0A0C12"/>
+    </linearGradient>
+    <linearGradient id="line" x1="96" y1="260" x2="1104" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1200" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1180" height="300" rx="14" stroke="#232633"/>
+
+  <g filter="url(#blur)" opacity="0.65">
+    <circle cx="955" cy="86" r="56" fill="#7C3AED"/>
+    <circle cx="1005" cy="186" r="42" fill="#2563EB"/>
+    <circle cx="845" cy="200" r="34" fill="#9333EA"/>
+  </g>
+
+  <rect x="744" y="52" width="360" height="216" rx="16" fill="#090B11" stroke="#252938"/>
+  <rect x="770" y="82" width="148" height="10" rx="5" fill="#181C27"/>
+  <rect x="770" y="108" width="220" height="10" rx="5" fill="#131722"/>
+  <rect x="770" y="134" width="180" height="10" rx="5" fill="#131722"/>
+  <rect x="770" y="176" width="84" height="84" rx="12" fill="#0F1320" stroke="#242A3A"/>
+  <rect x="870" y="176" width="208" height="16" rx="8" fill="#131722"/>
+  <rect x="870" y="204" width="170" height="12" rx="6" fill="#111522"/>
+  <rect x="870" y="226" width="122" height="12" rx="6" fill="#111522"/>
+  <circle cx="800" cy="218" r="22" fill="#A855F7" fill-opacity="0.2" stroke="#C084FC"/>
+  <path d="M792 218L798 224L810 212" stroke="#E9D5FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="96" y="108" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="4">devWelby / README.md</text>
+  <text x="96" y="156" fill="#FFFFFF" font-family="Georgia, Times New Roman, serif" font-size="40" font-weight="700">Wellington Barboza</text>
+  <text x="96" y="192" fill="#D1D5DB" font-family="Segoe UI, Arial, sans-serif" font-size="22">Back-end Developer | Machine Learning Engineer</text>
+  <text x="96" y="225" fill="#B3B8C5" font-family="Segoe UI, Arial, sans-serif" font-size="18">Python, PHP, JavaScript, automation, APIs and AI applications</text>
+  <text x="96" y="258" fill="#A855F7" font-family="Consolas, monospace" font-size="20">Building ideas</text>
+
+  <line x1="96" y1="272" x2="1104" y2="272" stroke="url(#line)" stroke-width="2"/>
+</svg>
