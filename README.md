@@ -75,4 +75,12 @@ I am currently building projects that combine APIs, automation flows, data-drive
   alt="GitHub Stats"
 />
 
+<br/>
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devWelby&theme=github_dark"
+  alt="GitHub Activity Overview"
+/>
+
 </div>
