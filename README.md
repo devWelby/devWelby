@@ -1,17 +1,14 @@
 <div align="center">
 
-### Hello, I'm Wellington 👋
+<img src="./assets/profile-banner.svg" alt="Wellington Barboza profile banner" width="100%" />
 
 <br/>
+
+### Hello, I'm Wellington 👋
 
 **Back-end Developer**  
 **Machine Learning Engineer**  
 **Python | PHP | JavaScript**
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=240&lines=Building+ideas"
-  alt="Building ideas"
-/>
 
 </div>
 
@@ -65,7 +62,7 @@ I am currently building projects that combine APIs, automation flows, data-drive
 
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/devWelby)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-d-barboza/)
-[![Website](https://img.shields.io/badge/WEBSITE-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://lucasmontano.com/)
+[![Website](https://img.shields.io/badge/WEBSITE-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://wellingtonbarboza.netlify.app/)
 
 </div>
 
