@@ -100,7 +100,7 @@ I am currently evolving **Aura-ai**, a project focused on practical AI workflows
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img width="98%" src="https://github-readme-stats.vercel.app/api?username=devWelby&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img width="98%" src="https://streak-stats.demolab.com?user=devWelby&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="Contribution Streak" />
