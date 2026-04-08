@@ -70,16 +70,31 @@ I am currently building projects that combine APIs, automation flows, data-drive
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark"
-  alt="GitHub Stats"
-/>
+### 🟪 GitHub Metrics
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 <br/>
-<br/>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devWelby&theme=github_dark"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
   alt="GitHub Activity Overview"
 />
 
