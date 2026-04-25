@@ -29,7 +29,7 @@ I work from **back-end to automation**, prioritizing clean architecture, code or
 
 I am currently building projects that combine APIs, automation, and product-driven thinking.
 
-- ♦ **Main profile:** Python, PHP, JavaScript, and modern web solutions  
+- ♦ **Main profile:** Python, PHP, Java, and modern web solutions  
 - ♦ **Technical interests:** system architecture, APIs, automation, and AI applications  
 - ♦ **Workflow:** GitHub, pull requests, code review, and structured delivery  
 - ♦ **Goal:** build useful products with clear business value
