@@ -18,7 +18,9 @@ Crio sistemas web e integrações para transformar necessidades em soluções ú
 
 Sou desenvolvedor back-end em Pernambuco, Brasil. Meu foco está em **Python e PHP**, com projetos que também usam **Node.js**, bancos de dados e integrações com serviços externos.
 
-Meu trabalho reúne sistemas de gestão, processamento de imagens, aplicações financeiras e diagnóstico de redes. Tenho interesse em IA aplicada como parte de produtos, conectando modelos e serviços a fluxos de uso concretos.
+Meu trabalho reúne sistemas de gestão, processamento de imagens, aplicações financeiras e diagnóstico de redes. Também desenvolvo soluções com IA aplicada, conectando modelos e serviços a fluxos de uso concretos.
+
+Além dos exemplos públicos abaixo, desenvolvo **projetos de código fechado** com PHP e Python, envolvendo arquitetura MVC, autenticação e controle de acesso, cache e automações agendadas. Esses repositórios permanecem privados.
 
 **O que você encontra por aqui**
 
@@ -43,7 +45,7 @@ Meu trabalho reúne sistemas de gestão, processamento de imagens, aplicações 
 **Back-end e dados:** FastAPI · Node.js · Express · MySQL  
 **Automação e imagens:** OpenCV · NumPy  
 **Web:** JavaScript · HTML · CSS  
-**Workflow e operação:** Git · GitHub · GitHub Actions · PM2
+**Workflow e operação:** Git · GitHub · GitHub Actions · PM2 · Apache · cPanel
 
 ## Como organizo as entregas
 
