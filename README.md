@@ -2,63 +2,114 @@
 
 <img src="./assets/profile-banner.svg" alt="Wellington Barboza — Desenvolvimento back-end, Python, PHP e APIs" width="100%" />
 
-# Wellington Barboza
+<br/>
 
-**Desenvolvimento back-end · Python & PHP · APIs & automação**
+## Hello, I'm Wellington 👋
 
-Crio sistemas web e integrações para transformar necessidades em soluções úteis.
+**Back-end Developer · Machine Learning Engineer**  
+**Python · PHP · JavaScript**
 
-[Portfólio](https://wellingtonbarboza.com/) · [LinkedIn](https://www.linkedin.com/in/wellington-d-barboza/) · [E-mail](mailto:contato@wellingtonbarboza.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=220&lines=Building+ideas" alt="Building ideas" />
+
+<hr/>
 
 </div>
 
 ---
 
-## Sobre mim
+## 🟪 About me
 
-Sou desenvolvedor back-end em Pernambuco, Brasil. Meu foco está em **Python e PHP**, com projetos que também usam **Node.js**, bancos de dados e integrações com serviços externos.
+<table>
+  <tr>
+    <td width="68%" valign="top">
 
-Meu trabalho reúne sistemas de gestão, processamento de imagens, aplicações financeiras e diagnóstico de redes. Também desenvolvo soluções com IA aplicada, conectando modelos e serviços a fluxos de uso concretos.
+I am a **Back-end Developer** and **Machine Learning Engineer** focused on turning ideas into solid, scalable, and well-designed digital products.
 
-Além dos exemplos públicos abaixo, desenvolvo **projetos de código fechado** com PHP e Python, envolvendo arquitetura MVC, autenticação e controle de acesso, cache e automações agendadas. Esses repositórios permanecem privados.
+I work from **back-end to automation**, prioritizing clean architecture, code organization, and practical delivery.
 
-**O que você encontra por aqui**
+I am currently building projects that combine APIs, automation, and product-driven thinking.
 
-- **Back-end:** autenticação, regras de negócio, APIs, uploads e relatórios.
-- **Dados e integrações:** MySQL, processamento em lote e integração com serviços de IA e pagamentos.
-- **Infraestrutura e operação:** configuração por ambiente, processos com PM2, healthchecks e publicação com GitHub Actions.
+- ♦ **Main profile:** Python, PHP, Java, and modern web solutions  
+- ♦ **Technical interests:** system architecture, APIs, automation, and AI applications  
+- ♦ **Workflow:** GitHub, pull requests, code review, and structured delivery  
+- ♦ **Goal:** build useful products with clear business value
 
-## Projetos selecionados
+  </td>
+  <td width="32%" align="center" valign="middle">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0bTFwZ3pwZmJ2aW5kaGo2c3MzY2JlOWcyanc0YzEyYXkwZm43ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" alt="Animated astronaut" width="95%" />
+  </td>
+  </tr>
+</table>
 
-| Projeto | Aplicação | Tecnologias |
-| :--- | :--- | :--- |
-| [**Lumina Studio**](https://github.com/devWelby/LUMINA-STUDIO) | Processamento de imagens com upload individual ou em lote, comparação antes/depois e exportação em ZIP. | Python · FastAPI · OpenCV |
-| [**Sistema LMS**](https://github.com/devWelby/Sistema-Lms) | Plataforma de estudos com autenticação, trilhas, avaliações, biblioteca e painel administrativo. | PHP · MySQL · PDO |
-| [**Aura AI**](https://github.com/devWelby/Aura-ai) | Aplicação de análise financeira com upload de extratos, relatórios e assinatura. Inclui testes HTTP e rotinas de operação. | Node.js · Express · MySQL · Stripe |
-| [**NetGamer Diagnostics**](https://github.com/devWelby/netchek) | Diagnóstico de rede com medições de latência, download/upload, gráficos e relatórios em PDF. | Node.js · WebSocket · JavaScript |
+---
 
-[Explorar todos os repositórios públicos →](https://github.com/devWelby?tab=repositories&type=source)
+## 🟪 Featured project
 
-## Tecnologias
+I am currently evolving **Aura-ai**, a project focused on practical AI workflows with JavaScript and product-oriented delivery.
 
-**Foco principal:** Python · PHP  
-**Back-end e dados:** FastAPI · Node.js · Express · MySQL  
-**Automação e imagens:** OpenCV · NumPy  
-**Web:** JavaScript · HTML · CSS  
-**Workflow e operação:** Git · GitHub · GitHub Actions · PM2 · Apache · cPanel
+- ♦ **Role:** architecture, feature development, and iteration cycles
+- ♦ **Focus:** useful automation, clean code, and maintainable structure
+- ♦ **Repository:** [github.com/devWelby/Aura-ai](https://github.com/devWelby/Aura-ai)
 
-## Como organizo as entregas
+---
 
-Nos projetos públicos, o workflow inclui:
+## 🟪 Tech Stack
 
-- **Configuração documentada:** instruções de execução e variáveis de ambiente.
-- **Verificação antes do envio:** checagens de sintaxe, testes HTTP e auditoria de segredos no [Aura AI](https://github.com/devWelby/Aura-ai).
-- **Operação acompanhável:** healthcheck e gerenciamento de processos com PM2 no Aura AI.
-- **Publicação automatizada:** workflow do GitHub Actions no [portfólio](https://github.com/devWelby/WellingtonBarboza).
+<div align="center">
 
-## Vamos conversar
+### ✦ Front-end & Web
 
-Para conversar sobre sistemas web, APIs, integrações ou automação:
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=flat-square&logo=javascript&logoColor=white)
 
-**[contato@wellingtonbarboza.com](mailto:contato@wellingtonbarboza.com)**  
-[LinkedIn](https://www.linkedin.com/in/wellington-d-barboza/) · [wellingtonbarboza.com](https://wellingtonbarboza.com/)
+### ✦ Back-end
+
+![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=flat-square&logo=fastapi&logoColor=white)
+
+### ✦ Infra & Workflow
+
+![Git](https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🟪 Contacts
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/devWelby)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-d-barboza/)
+[![Website](https://img.shields.io/badge/WEBSITE-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://wellingtonbarboza.netlify.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=devWelby&label=PROFILE+VIEWS&color=111111&style=flat-square)](https://github.com/devWelby)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🟪 Statistics
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devWelby&theme=github_dark" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img width="98%" src="https://streak-stats.demolab.com?user=devWelby&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="Contribution Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devWelby&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Wellington%20Barboza%27s%20Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
